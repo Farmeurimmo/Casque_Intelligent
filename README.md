@@ -28,4 +28,4 @@ Montage (image):
 
 Facts:
 
-- Développé en C# pour un projet de mon lycée
+- Développé en C++ pour un projet de mon lycée (ArduBlock Education c'est trop moche)
