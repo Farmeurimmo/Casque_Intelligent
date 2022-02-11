@@ -2,7 +2,7 @@
 
 Mais keskessé ???
 
-Un casque qui détecte des objets environnant sur la droite ou la gauche.
+Un casque qui détecte des objets environnant sur la droite ou la gauche. Il allume un buzzer et une led quand un objet se rapproche d'un côté. (pour le moment)
 
 Equipement nécessaire:
 
